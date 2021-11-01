@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2021-11-01T13:52:14.438821Z"
+    }
+  },
+  "parameters": {
+    "Task4ITransition.subscriptionId": {
+      "Name": "Task4ITransition.subscriptionId",
+      "Type": "subscription",
+      "Value": "7de72269-f621-454e-abcd-1bba7f0c8555"
+    },
+    "signalr1.resourceGroupName": {
+      "Name": "signalr1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-CUS"
+    },
+    "signalr1.resourceGroupLocation": {
+      "Name": "signalr1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "centralus"
+    },
+    "Task4ITransition.resourceGroupName": {
+      "Name": "Task4ITransition.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Task420211101153655ResourceGroup"
+    },
+    "signalr1.subscriptionId": {
+      "Name": "signalr1.subscriptionId",
+      "Type": "subscription",
+      "Value": "7de72269-f621-454e-abcd-1bba7f0c8555"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "7de72269-f621-454e-abcd-1bba7f0c8555"
+    }
+  }
+}

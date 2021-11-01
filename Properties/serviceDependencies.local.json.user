@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2021-11-01T14:24:04.6440025Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-11-01T14:23:54.1676705Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-11-01T15:07:42.8011747Z"
+    }
+  },
+  "parameters": {
+    "signalr1.resourceGroupName": {
+      "Name": "signalr1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-CUS"
+    },
+    "signalr1.subscriptionId": {
+      "Name": "signalr1.subscriptionId",
+      "Type": "subscription",
+      "Value": "7de72269-f621-454e-abcd-1bba7f0c8555"
+    }
+  }
+}
